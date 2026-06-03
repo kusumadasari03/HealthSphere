@@ -175,7 +175,7 @@ This diagram shows the internal architecture of HealthSphere, detailing how the 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/aakifnehal/HealthSphere.git
+   git clone https://github.com/kusumadasari03/HealthSphere.git
    cd HealthSphere
    ```
 
@@ -226,11 +226,6 @@ This diagram shows the internal architecture of HealthSphere, detailing how the 
    cd client
    streamlit run main.py --server.port 8501
    ```
-
-6. **Access the Application**
-   - Frontend: http://localhost:8501
-   - Backend API: http://localhost:8000
-   - API Documentation: http://localhost:8000/docs
 
 ---
 
@@ -330,9 +325,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Aakif Nehal** - [@aakifnehal](https://github.com/aakifnehal)
+**Kusuma Dasari** - [@kusumadasari03](https://github.com/kusumadasari03)
 
-Project Link: [https://github.com/aakifnehal/HealthSphere](https://github.com/aakifnehal/HealthSphere)
+Project Link: [https://github.com/kusumadasari03/HealthSphere](https://github.com/kusumadasari03/HealthSphere)
 
 ---
 
