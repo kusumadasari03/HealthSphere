@@ -330,9 +330,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Aakif Nehal** - [@aakifnehal](https://github.com/aakifnehal)
+**Kusuma Dasari** - [@kusumadasari03](https://github.com/kusumadasari03)
 
-Project Link: [https://github.com/aakifnehal/HealthSphere](https://github.com/aakifnehal/HealthSphere)
+Project Link: [https://github.com/kusumadasari03/HealthSphere](https://github.com/kusumadasari03/HealthSphere)
 
 ---
 
